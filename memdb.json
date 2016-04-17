@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "note": 1,
+    "post": 2
+  },
+  "models": {
+    "note": {},
+    "post": {
+      "1": "{\"title\":\"WHY MARKDOWN IS SO GREAT\",\"created\":\"2016-04-17T00:00:00.000Z\",\"content\":\"#Title\",\"id\":1}"
+    }
+  }
+}
